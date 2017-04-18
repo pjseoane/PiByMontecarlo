@@ -1,7 +1,9 @@
-public class ComputePi1
+
+//linea agregada aparece flag en verde
+public class ComputePi1 
 {
    public static void main(String[] args)
-   {
+   {  //linea modificada aparece el flag en azul 
       int i;								   
       int nThrows = 0;						   
       int nSuccess = 0;						   
